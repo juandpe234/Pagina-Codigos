@@ -33,7 +33,8 @@ ASUNTOS_PERMITIDOS = [
     r"Restablecimiento.*contraseña.*Paramount\+",
     r"Your one-time passcode for.*Disney\+",
     r"Universal\+ código de activación",
-    r"(?i)a\s*senha\s*da\s*conta\s*da\s*paramount\+\s*foi\s*redefinida"
+    r"(?i)a\s*senha\s*da\s*conta\s*da\s*paramount\+\s*foi\s*redefinida",
+    r"(?i)restablece.*contraseña.*crunchyroll"
     
 
 
